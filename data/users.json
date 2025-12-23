@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Yehouda",
+    "age": 28,
+    "city": "Ramot"
+  },
+  {
+    "id": 2,
+    "name": "Sarah",
+    "age": 30,
+    "city": "Jerusalem"
+  },
+  {
+    "id": 3,
+    "name": "Michael",
+    "age": 28,
+    "city": "Haifa"
+  },
+  {
+    "id": 4,
+    "name": "David",
+    "age": 25,
+    "city": "Tel Aviv"
+  },
+  {
+    "id": 5,
+    "name": "David",
+    "age": 25,
+    "city": "Tel Aviv"
+  },
+  {
+    "id": 6,
+    "name": "David",
+    "age": 25,
+    "city": "Tel Aviv"
+  },
+  {
+    "id": 7,
+    "name": "David",
+    "age": 25,
+    "city": "Tel Aviv"
+  },
+  {
+    "id": 8,
+    "name": "David",
+    "age": 25,
+    "city": "Tel Aviv"
+  }
+]

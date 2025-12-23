@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Yehouda",
+    "age": 28,
+    "city": "Ramot"
+  },
+  {
+    "id": 2,
+    "name": "Yehouda",
+    "age": 28,
+    "city": "Jerusalem"
+  },
+  {
+    "id": 3,
+    "name": "Michael",
+    "age": 28,
+    "city": "Haifa"
+  },
+  {
+    "id": 4,
+    "name": "David",
+    "age": 25,
+    "city": "Tel Aviv"
+  }
+]
