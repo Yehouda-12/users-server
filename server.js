@@ -16,7 +16,7 @@ app.use((req, res, next) => {
 });
 
 app.use('/users',users)
-app.get('/yehiel', (req,res)={
+app.get('/yehiel', (req,res)=>{
   res.send('FUCK YOU YEHIEL')})
 
 app.listen(PORT, () => {
